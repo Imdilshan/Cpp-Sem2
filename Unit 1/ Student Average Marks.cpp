@@ -1,4 +1,4 @@
-/* Author -> highfive */
+// WAP to find average marks of five subjects of a student in a class.
 #include <bits/stdc++.h>
 using namespace std;
 
