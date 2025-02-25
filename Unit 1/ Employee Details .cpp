@@ -27,7 +27,6 @@ int main(){
 	cin >> n;
 	
 	employee e[n];
-	
 	for(int i = 0; i < n; i++){
 		e[i].get();
 	}
