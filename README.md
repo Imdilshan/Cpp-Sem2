@@ -3,7 +3,7 @@
 
 This repository contains All the codes you will need in your Sem-2 (C++), including but not limited to Hackerrank, Unit practicals, MST's and EST.
 
-## Authors
+## Author/Author's
 
 - [@Imdilshan](https://github.com/Imdilshan)
 
