@@ -1,7 +1,7 @@
 
 # Sem-2 (C++)
 
-This repository contains All the codes you will need in your Sem-2 (C++) taught by Chandigarh University, including but not limited to Hackerrank, Unit practicals, MST's and EST.
+This repository contains All the codes you will need in your Sem-2 (C++), including but not limited to Hackerrank, Unit practicals, MST's and EST.
 
 ## Authors
 
