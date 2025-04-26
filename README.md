@@ -49,12 +49,12 @@ The most important codes are listed below:
 #### Insertion in Linked list:
 - From Beginning
 - At a given Position
-- At end
+- From end
 
 #### Deletion in Linked list:
 - From Beginning
 - At a given Position
-- At end
+- From end
 
 ### Stack and Queue:
 - Stack Array Implementation
