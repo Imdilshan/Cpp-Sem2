@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int fib(int n){
@@ -9,9 +9,10 @@ int fib(int n){
 
 int main(){
 	int n;
-	cout << "Enter the Limit: ";
+	cout << "Enter the Nth number: ";
 	cin >> n;
 
+	cout << n << "th number of fibonacci series: ";
 	cout << fib(n-1) << endl;
 	return 0;
 }
