@@ -9,7 +9,6 @@ int main(){
 	for(int i = 0; i < n; i++){
 		cin >> arr[i];
 	}
-	
 	sort(arr, arr + n);
 	
 	int input;
@@ -17,9 +16,9 @@ int main(){
 	
 	int l = 0, r = n-1, mid;
 	while(l <= r){
-		mid = l + r / 2; 
+		mid = (l + r) / 2; 
 		if(arr[mid] == input){
-			cout << arr[mid] << endl;
+			cout << mid << endl;
 			return 0;
 		}
 		else if(arr[mid] < input){
@@ -29,6 +28,6 @@ int main(){
 			r = mid - 1;
 		}
 	}
-	cout << input << " not found" << endl;
+	cout << input << " not found." << endl;
 	return 0;
 }
