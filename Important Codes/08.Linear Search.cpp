@@ -22,7 +22,5 @@ int main(){
 		}
 	}
 	cout << "Number Doesn't Exist in the list." << endl;
-		
-	
 	return 0;
 }
